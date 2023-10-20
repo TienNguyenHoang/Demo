@@ -9,15 +9,9 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-<<<<<<< HEAD
         "projectPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\obj\\",
-=======
-        "projectPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\obj\\",
->>>>>>> 556b92f74fa365db6c7f3b9288efe78818fcbb64
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
