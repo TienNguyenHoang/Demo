@@ -16,5 +16,10 @@ namespace Demo._1
         {
             InitializeComponent();
         }
+
+        private void _1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
