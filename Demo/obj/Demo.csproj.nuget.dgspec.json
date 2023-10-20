@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj": {}
+    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj": {
+    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\source\\repos\\Demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
