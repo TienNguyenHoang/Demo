@@ -47,7 +47,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Name = "_4";
-            Text = "_4";
+            Text = "git";
             ResumeLayout(false);
         }
 
