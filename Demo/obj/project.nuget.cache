@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "icX6MgBqsIDINIc0pl/LY/poCjR1GoL7wwSyZtduoPzAHh20Jzrjluqizj7TJY1vIoGBzPx+RZ5+TZzpaf9IRQ==",
+=======
+  "dgSpecHash": "IKJngh9ydprj55oSpP/H9qFN0Ijaw0ik+iL1tHghJC/rIEkjQf560q6aoq7WlUWQaV0WUuHQTGU/mzjFzoshKA==",
+>>>>>>> 556b92f74fa365db6c7f3b9288efe78818fcbb64
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
   "expectedPackageFiles": [],

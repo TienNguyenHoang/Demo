@@ -16,5 +16,10 @@ namespace Demo._2
         {
             InitializeComponent();
         }
+
+        private void _2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
