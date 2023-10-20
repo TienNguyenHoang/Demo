@@ -33,11 +33,13 @@
             // 
             // button1
             // 
-            button1.Location = new Point(259, 151);
+
+            button1.Location = new Point(280, 151);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
-            button1.Text = "Tiến";
+            button1.Text = "phuc";
+
             button1.UseVisualStyleBackColor = true;
             // 
             // _4
@@ -47,7 +49,11 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Name = "_4";
+<<<<<<< HEAD
             Text = "git";
+=======
+            Text = "_4";
+>>>>>>> 2e63ca29439f1fab1ae2cadc7bf3a217833d9210
             ResumeLayout(false);
         }
 
