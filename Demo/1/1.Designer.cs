@@ -40,7 +40,7 @@
             button1.Text = "Tiến";
             button1.UseVisualStyleBackColor = true;
             // 
-
+            Controls.Add(button1);
             // _1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
